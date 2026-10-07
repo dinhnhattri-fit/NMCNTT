@@ -1,4 +1,5 @@
-  ## THÔNG TIN CÁ NHÂN
+ ## GIỚI THIỆU BẢN THÂN
+  ## Thông tin cá nhân
 - Họ và tên: Đinh Nhất Trí
 - MSSV: 2611130242
 - Khoa: Công Nghệ Thông Tin
